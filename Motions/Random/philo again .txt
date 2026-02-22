@@ -1,0 +1,25 @@
+
+
+context 2: There exists a pill that allows individuals to lead happy lives at the expense of reducing their awareness. Individuals who take the pill are content and satisfied with their lives, but are disinclined to change their present circumstances and will be apathetic about issues they perceive to not concern them (e.g. politics and global warming).
+
+motion 2: THW take the pill
+
+
+context: The year is 1716. You are a British sailor on a private merchant ship. Having left your recently wed wife in England, it is your first time at sea, and you have almost arrived to the Carribean port city. Suddenly a ship comes portside and they reveal themselves to be pirates. They board your ship, throw the captain and officers overboard, steal all the booty, and offer the rest of the crew to join them. Anyone who refuses, will be left to sail or swim to the port city.
+
+motion : THW take the offer
+
+context: You are an average person who has just been bitten by a radioactive housefly. You have developed the ability to fly, super strength, shoot lasers out of your eyes and freeze breath.
+
+motion: thw choose to not become a superhero and maintain a normal life.
+
+
+
+motion 1: Assuming feasibility, This house prefers a communist utopia to a capitalist utopia
+
+
+context 2: You are an average person who has just been bitten by a radioactive housefly. You have developed the ability to fly, super strength, shoot lasers out of your eyes and freeze breath.
+
+motion 2: thw choose to not become a superhero and maintain a normal life.
+
+motion 3: This house prefers a world where individuals do not experience nostalgia

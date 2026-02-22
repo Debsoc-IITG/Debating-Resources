@@ -1,0 +1,20 @@
+context 1: The United Nations General Assembly (UNGA) is made up of 193 member states and is responsible for voting on major global issues. It currently follows a “one country, one vote” system in which every state has an equal vote. Most resolutions are passed by a simple majority, while matters such as the admission of new UN members and important international peace and security issues require a two-thirds majority. Under a “contribution-weighted voting” system, each country’s voting power would be proportional to its relative contributions to tackling global challenges. For example, if Country A contributes £5 billion, which is 5% of its GDP, and Country B contributes £10 billion, which is 1% of its GDP, then Country A would have greater voting power than Country B. Contributions can be monetary or non-monetary, for example providing soldiers for peacekeeping missions or agricultural donations.
+
+motion 1: This house would replace the UN General Assembly’s one country, one vote system with a contribution-weighted voting system
+
+context 2: On 20 February 1947, British Prime Minister Clement Attlee announced that Britain would withdraw from India by June 1948, giving up to 16 months before the final withdrawal. Subsequently, Lord Mountbatten was appointed as the final Viceroy of India, arriving in New Delhi on 22 March 1947. However, after just two months of talks, Lord Mountbatten judged that communal tensions were worsening and that political negotiations between the Indian National Congress and the Muslim League were breaking down. On 3 June 1947, he announced the “Mountbatten Plan,” which accelerated the British departure from India by ten months. The Indian Independence Act received Royal Assent on 18 July, and independence and partition between India and Pakistan followed less than a month later on 14–15 August 1947.
+
+motion 2: This house regrets Britain’s decision to accelerate withdrawal from India in 1947
+
+
+context 3: In March 2025, Haiti’s transitional government hired Vectus Global, a private military company run by the former CEO of Blackwater, to support ongoing security operations against armed gangs that have control of large portions of the country, implement revenue and tax collection systems, control cross- border mineral smuggling, and assume a 10 year advising role to the government.
+
+motion 3: This house supports the Haiti-Vectus agreement
+
+
+
+motion : This house regrets the global dominance of American popular culture.
+
+motion : This house supports the decline of American influence
+
+motion : This house believes that Canada should substantially invest into the militarization of the Arctic

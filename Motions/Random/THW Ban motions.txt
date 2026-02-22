@@ -1,0 +1,25 @@
+motion 1: In areas prone to environmental disasters, This house would ban corporations from acquiring land development permits
+
+context 2 : For the purposes of the debate, quick trading refers to the buy and sale of financial securities (e.g. stocks, options, futures, currencies, NFTs) within the same week.
+
+motion 2 : This house would ban quick trading
+
+
+context 3:Consolidation refers to the combination of multiple companies into one single entity. Consolidation may happen through processes like mergers, acquisitions, or hostile takeovers.
+
+motion 3: This house would ban the consolidation of news organisations (e.g. BBC, Reuters).
+
+
+extra motions: 
+
+motion : This house would ban the presence of organised religion in prisons
+
+motion : This House would ban corporate donations on political campaigns
+
+
+context: Prediction markets are online markets that allow visitors to bet money on real-life events (eg. elections, political actions, wars). If their prediction is correct, they receive a monetary reward proportional to the risk of their prediction.
+
+motion: This house would ban prediction markets
+
+
+
